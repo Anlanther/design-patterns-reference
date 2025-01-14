@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+// Overkill because we only have two states
 namespace ConsoleApp1.src.DesignPatterns.Behavioral.State.StopwatchExample
 {
     public class Stopwatch
